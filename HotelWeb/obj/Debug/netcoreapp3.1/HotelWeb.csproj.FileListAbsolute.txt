@@ -1,0 +1,13 @@
+C:\Users\Usuario\source\repos\HotelWeb\HotelWeb\bin\Debug\netcoreapp3.1\HotelWeb.exe
+C:\Users\Usuario\source\repos\HotelWeb\HotelWeb\bin\Debug\netcoreapp3.1\HotelWeb.deps.json
+C:\Users\Usuario\source\repos\HotelWeb\HotelWeb\bin\Debug\netcoreapp3.1\HotelWeb.runtimeconfig.json
+C:\Users\Usuario\source\repos\HotelWeb\HotelWeb\bin\Debug\netcoreapp3.1\HotelWeb.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\HotelWeb\HotelWeb\bin\Debug\netcoreapp3.1\HotelWeb.dll
+C:\Users\Usuario\source\repos\HotelWeb\HotelWeb\bin\Debug\netcoreapp3.1\HotelWeb.pdb
+C:\Users\Usuario\source\repos\HotelWeb\HotelWeb\obj\Debug\netcoreapp3.1\HotelWeb.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\HotelWeb\HotelWeb\obj\Debug\netcoreapp3.1\HotelWeb.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\HotelWeb\HotelWeb\obj\Debug\netcoreapp3.1\HotelWeb.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\HotelWeb\HotelWeb\obj\Debug\netcoreapp3.1\HotelWeb.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\HotelWeb\HotelWeb\obj\Debug\netcoreapp3.1\HotelWeb.dll
+C:\Users\Usuario\source\repos\HotelWeb\HotelWeb\obj\Debug\netcoreapp3.1\HotelWeb.pdb
+C:\Users\Usuario\source\repos\HotelWeb\HotelWeb\obj\Debug\netcoreapp3.1\HotelWeb.genruntimeconfig.cache
